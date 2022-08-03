@@ -1,2 +1,2 @@
-# Odoo_CommisiionsModule
+# Odoo_CommissionsModule
 Módulo de comisones
