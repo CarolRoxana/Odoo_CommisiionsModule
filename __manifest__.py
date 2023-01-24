@@ -6,7 +6,7 @@
        Service commissions and technical support
     """,
 
-    'author': "3dVision",
+    'author': "3DVision, C.A",
     'website': "https://www.3dvisionve.com",
 
     'category': 'Uncategorized',
