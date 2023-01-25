@@ -20,5 +20,8 @@
         # 'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
+        'sale_commission_line.xml',
+        'sale_commission_view.xml',
+        'sales_order_view',
     ],
 }
